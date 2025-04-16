@@ -3,9 +3,9 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 **/src/test/
-src/main/resources/currensies.sqlite
-src/main/resources/db.properties
-
+/src/main/resources/currensies.sqlite
+/src/main/resources/db.properties
+/src/main/java/ru/edu/currency_exchange/Main.java
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
